@@ -1,1 +1,1 @@
-Visualização dos Limites Superiores em Algoritmos Constantes (O(1)), Algoritmos Logarítmicos (O(log n), Algoritmos Lineares (O(n)), Algoritmos Logarítimo Linear (O(n log n)), Algoritmos Quadráticos (O(n²)), Algoritmos Cúbicos (O(n³)) e Algoritmos Exponenciais (O(2**n)). 
+Visualização dos Limites Superiores em Algoritmos Constantes (O(1)), Algoritmos Logarítmicos (O(log n), Algoritmos Lineares (O(n)), Algoritmos Logarítimo Lineares (O(n log n)), Algoritmos Quadráticos (O(n²)), Algoritmos Cúbicos (O(n³)) e Algoritmos Exponenciais (O(2**n)). 
